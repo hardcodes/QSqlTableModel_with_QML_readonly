@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>qml/view.qml</file>
+        <file>qml/ListElementDelegate.qml</file>
+    </qresource>
+</RCC>
